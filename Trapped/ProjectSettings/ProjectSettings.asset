@@ -531,6 +531,7 @@ PlayerSettings:
     25: UNITY_POST_PROCESSING_STACK_V2
     26: UNITY_POST_PROCESSING_STACK_V2
     27: UNITY_POST_PROCESSING_STACK_V2
+    28: UNITY_POST_PROCESSING_STACK_V2
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
@@ -601,6 +602,10 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Build: 0
+    Collab: 1
+    ErrorHub: 0
+    Hub: 0
     UNet: 1
   luminIcon:
     m_Name: 
@@ -620,12 +625,12 @@ PlayerSettings:
   facebookStatus: 1
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
-  apiCompatibilityLevel: 6
-  cloudProjectId: 
+  apiCompatibilityLevel: 3
+  cloudProjectId: 1ef131a2-c4c0-446b-b28c-11609677e134
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: Trapped
+  organizationId: panskrzynka
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
-  legacyClampBlendShapeWeights: 0
+  legacyClampBlendShapeWeights: 1

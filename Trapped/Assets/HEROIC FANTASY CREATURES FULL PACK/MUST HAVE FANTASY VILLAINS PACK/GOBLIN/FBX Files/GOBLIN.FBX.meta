@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 369bf22314485f2499b7991776c86074
+timeCreated: 1507071784
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: GOBLIN_ R Foot
+    100002: GOBLIN_ Head
+    100004: forearm_armor_R
+    100006: sword
+    100008: GOBLIN_ L Thigh
+    100010: GOBLIN_ L Toe0
+    100012: GOBLIN_ L Foot
+    100014: GOBLIN_ L Calf
+    100016: //RootNode
+    100018: leg_armor_R
+    100020: slingshot
+    100022: leg_armor_L
+    100024: GOBLIN_ R Calf
+    100026: GOBLIN_ R Thigh
+    100028: dagger_R
+    100030: GOBLIN_ R Toe0
+    100032: GOBLIN_ R Hand
+    100034: shield
+    100036: forearm_armor_L
+    100038: stone
+    100040: Factice004
+    100042: Factice003
+    100044: Factice005
+    100046: Factice002
+    100048: Factice001
+    100050: slingshot_body
+    100052: dagger_L
+    100054: GOBLIN_ L Hand
+    100056: GOBLIN_ Neck
+    100058: GOBLIN_ Spine1
+    100060: GOBLIN_ Spine
+    100062: GOBLIN_ Pelvis
+    100064: GOBLIN_
+    100066: shoulder_armor
+    100068: GOBLIN
+    100070: GOBLIN_ Queue de cheval 1
+    100072: GOBLIN_ R Finger32
+    100074: GOBLIN_ R Finger31
+    100076: GOBLIN_ R Finger3
+    100078: GOBLIN_ R Finger22
+    100080: GOBLIN_ R Finger21
+    100082: GOBLIN_ R Finger2
+    100084: GOBLIN_ R Finger12
+    100086: GOBLIN_ R Finger11
+    100088: GOBLIN_ R Finger1
+    100090: GOBLIN_ R Finger02
+    100092: GOBLIN_ R Finger01
+    100094: GOBLIN_ R Finger0
+    100096: GOBLIN_ R Forearm
+    100098: GOBLIN_ R UpperArm
+    100100: GOBLIN_ R Clavicle
+    100102: slingshot_rope_middle
+    100104: GOBLIN_ L Finger32
+    100106: GOBLIN_ L Finger31
+    100108: GOBLIN_ L Finger3
+    100110: GOBLIN_ L Finger22
+    100112: GOBLIN_ L Finger21
+    100114: GOBLIN_ L Finger2
+    100116: GOBLIN_ L Finger12
+    100118: GOBLIN_ L Finger11
+    100120: GOBLIN_ L Finger1
+    100122: GOBLIN_ L Finger02
+    100124: GOBLIN_ L Finger01
+    100126: GOBLIN_ L Finger0
+    100128: GOBLIN_ L Forearm
+    100130: GOBLIN_ L UpperArm
+    100132: GOBLIN_ L Clavicle
+    100134: GOBLIN_BODY
+    100136: slingshot_rope_L
+    100138: slingshot_rope_R
+    400000: GOBLIN_ R Foot
+    400002: GOBLIN_ Head
+    400004: forearm_armor_R
+    400006: sword
+    400008: GOBLIN_ L Thigh
+    400010: GOBLIN_ L Toe0
+    400012: GOBLIN_ L Foot
+    400014: GOBLIN_ L Calf
+    400016: //RootNode
+    400018: leg_armor_R
+    400020: slingshot
+    400022: leg_armor_L
+    400024: GOBLIN_ R Calf
+    400026: GOBLIN_ R Thigh
+    400028: dagger_R
+    400030: GOBLIN_ R Toe0
+    400032: GOBLIN_ R Hand
+    400034: shield
+    400036: forearm_armor_L
+    400038: stone
+    400040: Factice004
+    400042: Factice003
+    400044: Factice005
+    400046: Factice002
+    400048: Factice001
+    400050: slingshot_body
+    400052: dagger_L
+    400054: GOBLIN_ L Hand
+    400056: GOBLIN_ Neck
+    400058: GOBLIN_ Spine1
+    400060: GOBLIN_ Spine
+    400062: GOBLIN_ Pelvis
+    400064: GOBLIN_
+    400066: shoulder_armor
+    400068: GOBLIN
+    400070: GOBLIN_ Queue de cheval 1
+    400072: GOBLIN_ R Finger32
+    400074: GOBLIN_ R Finger31
+    400076: GOBLIN_ R Finger3
+    400078: GOBLIN_ R Finger22
+    400080: GOBLIN_ R Finger21
+    400082: GOBLIN_ R Finger2
+    400084: GOBLIN_ R Finger12
+    400086: GOBLIN_ R Finger11
+    400088: GOBLIN_ R Finger1
+    400090: GOBLIN_ R Finger02
+    400092: GOBLIN_ R Finger01
+    400094: GOBLIN_ R Finger0
+    400096: GOBLIN_ R Forearm
+    400098: GOBLIN_ R UpperArm
+    400100: GOBLIN_ R Clavicle
+    400102: slingshot_rope_middle
+    400104: GOBLIN_ L Finger32
+    400106: GOBLIN_ L Finger31
+    400108: GOBLIN_ L Finger3
+    400110: GOBLIN_ L Finger22
+    400112: GOBLIN_ L Finger21
+    400114: GOBLIN_ L Finger2
+    400116: GOBLIN_ L Finger12
+    400118: GOBLIN_ L Finger11
+    400120: GOBLIN_ L Finger1
+    400122: GOBLIN_ L Finger02
+    400124: GOBLIN_ L Finger01
+    400126: GOBLIN_ L Finger0
+    400128: GOBLIN_ L Forearm
+    400130: GOBLIN_ L UpperArm
+    400132: GOBLIN_ L Clavicle
+    400134: GOBLIN_BODY
+    400136: slingshot_rope_L
+    400138: slingshot_rope_R
+    2300000: forearm_armor_R
+    2300002: sword
+    2300004: leg_armor_R
+    2300008: leg_armor_L
+    2300010: dagger_R
+    2300012: shield
+    2300014: forearm_armor_L
+    2300016: stone
+    2300018: dagger_L
+    3300000: forearm_armor_R
+    3300002: sword
+    3300004: leg_armor_R
+    3300008: leg_armor_L
+    3300010: dagger_R
+    3300012: shield
+    3300014: forearm_armor_L
+    3300016: stone
+    3300018: dagger_L
+    4300000: GOBLIN
+    4300002: shoulder_armor
+    4300004: dagger_L
+    4300006: stone
+    4300008: forearm_armor_L
+    4300010: shield
+    4300012: dagger_R
+    4300014: sword
+    4300016: forearm_armor_R
+    4300018: leg_armor_L
+    4300020: leg_armor_R
+    4300022: slingshot
+    4300024: GOBLIN_BODY
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: GOBLIN
+    13700002: slingshot
+    13700004: shoulder_armor
+    13700006: GOBLIN_BODY
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: GOBLIN_
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
